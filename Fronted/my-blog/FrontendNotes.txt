@@ -1,3 +1,0 @@
-dependencies --> 
-scripts --> app ayeha pr kya kya karna chate ho apne project ke sath
-apne project ko start kr sakte hai

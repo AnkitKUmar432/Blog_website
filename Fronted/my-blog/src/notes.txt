@@ -1,3 +1,0 @@
-web3form website we can send data from react component to direclty email
-https://api.web3forms.com/submit   and type-> POST
-key -->>> bb2dde61-01f2-42c1-bd1d-2e070859d45b
